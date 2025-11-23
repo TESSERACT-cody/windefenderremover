@@ -8,3 +8,6 @@ DisableScanOnRealTimeEnable знач. 1
 DisableIOAVPProtection знач. 1
 
 !!!ВСЕ ПАРАМЕТРЫ СОЗДАВАТЬ С DWORD 32 bit!!!
+
+
+НИХУЯ НЕ РАБОТАЕТ
